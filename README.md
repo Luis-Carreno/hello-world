@@ -1,3 +1,7 @@
-# hello-world
-first repository bruh
-I am excited to get started and grow from here!
+class Main {
+  public static void main(String[] args) {
+    //write your code here!
+    Integer age = 21;
+    System.out.println(age);
+  }
+}
